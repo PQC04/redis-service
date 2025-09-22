@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.github.pqc04</groupId>
     <artifactId>redis-service</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>redis-service</name>
     <description>redis-service</description>
     <url>https://github.com/pqc04/redis-service</url>
@@ -41,19 +41,9 @@
     </properties>
     <dependencies>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-
-        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>redis.clients</groupId>
