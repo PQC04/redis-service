@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.github.pqc04</groupId>
     <artifactId>redis-service</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>redis-service</name>
     <description>redis-service</description>
     <url>https://github.com/pqc04/redis-service</url>
